@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software and Game Developer
 ---------------------------
 
-Code with C++, Python, and JavaScript. Projects involve software engineering, game development, and machine learning & data analysis. I started coding with Python to streamline tasks as a Maths teacher, then learned software engineering and game development. Currently creating games with C++ in Unreal Engine.
+Code with C++, Python, and JavaScript. Projects involve game development, general software development, and machine learning & data analysis. I started coding with Python to streamline tasks as a Maths teacher, then studied software engineering and game development through online courses. Currently creating games with C++ in Unreal Engine.
 
 * 🖥️  See my portfolio at [medium.com/@chris.stidwill](http://medium.com/@chris.stidwill)
 * ✉️  You can contact me at [chris.stidwill@gmail.com](mailto:chris.stidwill@gmail.com)
