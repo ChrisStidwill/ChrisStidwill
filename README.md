@@ -7,9 +7,9 @@ Software and Game Developer
 Code with C++, Python, and JavaScript. Projects involve game development, general software development, and machine learning & data analysis. I started coding with Python to streamline tasks as a Maths teacher, then studied software engineering and game development through online courses. Currently creating games with C++ in Unreal Engine.
 
 * 🖥️  See my portfolio at [medium.com/@chris.stidwill](http://medium.com/@chris.stidwill)
-* ✉️  You can contact me at [chris.stidwill@gmail.com](mailto:chris.stidwill@gmail.com)
-* 🚀  I'm currently working on [AI & gameplay mechanics for an assassin's creed-style game](http://youtu.be/Ief0zoKzuuQ)
-* 🧠  I'm learning image recognition with TensorFlow
+* ✉️  You can contact me via [LinkedIn](https://www.linkedin.com/in/chris-stidwill-5005a8239/)
+* 🚀  I'm currently working on a puzzle god-genre game using UE5
+* 🧠  I'm learning web development with React and automation testing
 * ⚡  I like cats and puns
 
 ### Skills
