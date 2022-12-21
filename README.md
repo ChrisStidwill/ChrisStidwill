@@ -4,12 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software and Game Developer
 ---------------------------
 
-Code with C++, Python, and JavaScript. Projects involve game development, general software development, and machine learning & data analysis. I started coding with Python to streamline tasks as a Maths teacher, then studied software engineering and game development through online courses. Currently creating games with C++ in Unreal Engine.
+Developer with background in gameplay programming, web development, machine learning, and currently working as an automation tester.
+Work with Unreal Engine, React, Scikit-Learn, Tensorflow, and Playwright.
+Code with C++, JavaScript, Python, Java.
 
 * 🖥️  See my portfolio at [medium.com/@chris.stidwill](http://medium.com/@chris.stidwill)
 * ✉️  You can contact me via [LinkedIn](https://www.linkedin.com/in/chris-stidwill-5005a8239/)
-* 🚀  I'm currently working on a puzzle god-genre game using UE5
-* 🧠  I'm learning web development with React and automation testing
+* 🚀  I'm currently developing a puzzle god-genre game using UE5 (prototyping, with plans to show off sandbox mode by Summer 2023)
+* 🧠  I'm currently studying front-end with React
 * ⚡  I like cats and puns
 
 ### Skills
