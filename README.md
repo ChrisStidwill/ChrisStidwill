@@ -6,7 +6,7 @@ Software and Game Developer
 
 Developer with background in gameplay programming, web development, machine learning, and currently working as an automation tester.
 Work with Unreal Engine, React, Scikit-Learn, Tensorflow, and Playwright.
-Code with C++, JavaScript, Python, Java.
+Code with C++, JavaScript, Python, Java, SQL.
 
 * 🖥️  See my portfolio at [medium.com/@chris.stidwill](http://medium.com/@chris.stidwill)
 * ✉️  You can contact me via [LinkedIn](https://www.linkedin.com/in/chris-stidwill-5005a8239/)
