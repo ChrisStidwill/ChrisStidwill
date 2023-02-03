@@ -11,7 +11,7 @@ Code with C++, JavaScript, Python, Java, SQL.
 * 🖥️  See my portfolio at [medium.com/@chris.stidwill](http://medium.com/@chris.stidwill)
 * ✉️  You can contact me via [LinkedIn](https://www.linkedin.com/in/chris-stidwill-5005a8239/)
 * 🚀  I'm currently developing a puzzle god-genre game using UE5 (prototyping, with plans to show off sandbox mode by Summer 2023)
-* 🧠  I'm currently studying front-end with React
+* 🧠  I'm currently stuying Terraform for use with AWS
 * ⚡  I like cats and puns
 
 ### Skills
