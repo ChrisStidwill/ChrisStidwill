@@ -1,17 +1,15 @@
-Hi! My name is Chris Stidwill
+Chris Stidwill
 ======================================================================================================================================
 
-Software and Game Developer
+Software Developer
 ---------------------------
 
-Developer with background in gameplay programming, web development, machine learning, and currently working as an automation tester.
-Work with Unreal Engine, React, Scikit-Learn, Tensorflow, and Playwright.
-Code with C++, JavaScript, Python, Java, SQL.
+Developer focused on games and physics simulations. Experienced primarily with C++ and Unreal Engine, and have further experience with Python and web development/automation.
+Primarily working with C++ and Python but also have experience with Javascript, Typescript,  Java, SQL.
 
-* 🖥️  See my portfolio at [medium.com/@chris.stidwill](http://medium.com/@chris.stidwill)
 * ✉️  You can contact me via [LinkedIn](https://www.linkedin.com/in/chris-stidwill-5005a8239/)
-* 🚀  I'm currently developing a puzzle god-genre game using UE5 (prototyping, with plans to show off sandbox mode by Summer 2023)
-* 🧠  I'm currently stuying Terraform for use with AWS
+* 🚀  I'm currently working on 
+* 🧠  I'm currently stuying Qt for creating C++ applications
 * ⚡  I like cats and puns
 
 ### Skills
